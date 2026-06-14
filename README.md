@@ -1,4 +1,4 @@
-<img width="1284" height="2778" alt="초기화면" src="https://github.com/user-attachments/assets/9b43eb63-a56a-4d75-b2b3-04d63065783b" /># BestWorldCupTeam
+# BestWorldCupTeam
 ### 나만의 월드컵 드림팀을 구성하는 iOS 애플리케이션
 
 2171467 최지환
@@ -68,7 +68,7 @@ BestWorldCupTeam/
 
 * 시작 화면
   
-  <img width="1284" height="2778" alt="초기화면" src="https://github.com/user-attachments/assets/9c2d5265-f0f5-4fd8-840c-16c8d321862e" />
+  <img width="340" height="652" alt="초기화면" src="https://github.com/user-attachments/assets/9c2d5265-f0f5-4fd8-840c-16c8d321862e" />
 
 * 홈 대시보드
 
@@ -76,19 +76,19 @@ BestWorldCupTeam/
 
 * 선수 탐색 화면
 
-  <img width="331" height="655" alt="선수선택화면" src="https://github.com/user-attachments/assets/bac165e8-8aa6-48f9-8783-7863d01282b9" />
+  <img width="340" height="652" alt="선수선택화면" src="https://github.com/user-attachments/assets/bac165e8-8aa6-48f9-8783-7863d01282b9" />
 
 * 드림팀 포메이션 화면
 
-  <img width="327" height="653" alt="포메이션화면" src="https://github.com/user-attachments/assets/383624c4-0859-47c0-a947-8dc7af0ee846" />
+  <img width="340" height="652" alt="포메이션화면" src="https://github.com/user-attachments/assets/383624c4-0859-47c0-a947-8dc7af0ee846" />
 
 * 선수 상세 화면
 
-  <img width="342" height="652" alt="선수개인화면" src="https://github.com/user-attachments/assets/5243c258-63db-4088-8738-77ee3ebf502f" />
+  <img width="340" height="652" alt="선수개인화면" src="https://github.com/user-attachments/assets/5243c258-63db-4088-8738-77ee3ebf502f" />
 
 * 팀 완성 화면
 
-  <img width="327" height="653" alt="포메이션화면" src="https://github.com/user-attachments/assets/75e919ee-8c32-4f37-8077-83bc2ef76460" />
+  <img width="340" height="652" alt="포메이션화면" src="https://github.com/user-attachments/assets/75e919ee-8c32-4f37-8077-83bc2ef76460" />
 
 
 #### 2.4 기대효과
