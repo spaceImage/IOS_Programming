@@ -117,4 +117,4 @@ BestWorldCupTeam/
 
 #### 2.7 발표영상
 
-([https://youtu.be/DblJDVpPgXM](https://www.youtube.com/watch?v=DbIJDVpPgXM))
+[![발표영상](https://img.youtube.com/vi/DbIJDVpPgXM/0.jpg)](https://youtu.be/DbIJDVpPgXM)
