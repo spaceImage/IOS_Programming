@@ -117,4 +117,4 @@ BestWorldCupTeam/
 
 #### 2.7 발표영상
 
-[![발표영상](https://img.youtube.com/vi/DblJDVpPgXM/0.jpg)](https://youtu.be/DblJDVpPgXM)
+[![Dream XI Builder 발표영상](https://img.youtube.com/vi/DblJDVpPgXM/0.jpg)](https://youtu.be/DblJDVpPgXM)
