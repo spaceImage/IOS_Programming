@@ -117,4 +117,4 @@ BestWorldCupTeam/
 
 #### 2.7 발표영상
 
-(YouTube 동영상 링크 첨부 위치)
+[[(YouTube 동영상 링크 첨부 위치)](https://github.com/x1201/CooksBee?tab=readme-ov-file)](https://youtu.be/DbIJDVpPgXM)
